@@ -1,7 +1,6 @@
 /*************************************************
  * Smart Helmet for Coal Miner Safety Monitoring
  * ESP8266 + MAX30100 + DHT11 + MQ2 + Vibration + GPS6MV2 + Blynk IoT
- * Accurate values only - NO default/fallback values
  *************************************************/
 
 // ----------- BLYNK SETTINGS -----------
